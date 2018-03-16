@@ -1,0 +1,51 @@
+#header{
+	
+	text-align: center;
+	font-family: "Myriad Pro", "Arial", "san serif";
+	color: #565454;
+
+}
+h1{
+	text-align: center;
+	font-family: "Myriad Pro", "Arial", "san serif";
+	color: #565454;
+}
+#menu{
+	
+	text-align: center;
+}
+a{
+	text-decoration: none;
+	padding-left: 15px;
+	padding-right: 15px;
+	color: #E27D60;
+	font-family: "Myriad Pro", "Arial", "san serif";
+
+}
+a:hover{
+	background-color: #E8A87C;
+	color:black;
+	text-align: center;
+}
+.column {
+    float: left;
+  width: 33.33%;
+  padding: 50px;
+}
+.column img{
+	height: 270px;
+	
+}
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+  
+
+  
+}
+
+
+
+
+

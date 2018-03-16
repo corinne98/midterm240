@@ -1,0 +1,28 @@
+#header{
+	
+	text-align: center;
+	font-family: "Myriad Pro", "Arial", "san serif";
+	color: #565454;
+
+}
+#menu{
+	
+	text-align: center;
+}
+h4{
+	color: #565454;
+}
+a{
+	text-decoration: none;
+	padding-left: 5px;
+	padding-right: 10px;
+	color: #E27D60;
+	font-family: "Myriad Pro", "Arial", "san serif";
+
+}
+
+.about{
+	font-family: "Myriad Pro", "Arial", "san serif";
+	color: #565454;
+	text-align: center;
+}
